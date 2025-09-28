@@ -3,7 +3,7 @@
 Everyone deserves to see their favourite artist.
 
 > **Status:** 🚧 Pre-alpha / incomplete  
-> **Prototype / Demo:** **In Progress** 
+> **Prototype / Demo:** **In Progress due to school** 
 
 ---
 
